@@ -1,0 +1,22 @@
+.bg-header{
+    background-color: #3E3062;
+}
+.button-lhn{
+    background: linear-gradient(180deg, #FF41F7 0%, #6E2C91 100%);
+
+}
+.bg-block{
+    background: var(--button-1, linear-gradient(180deg, #FF41F7 0%, #6E2C91 100%));
+
+}
+.image img{
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+* {
+    box-sizing: border-box;
+}
+.img-intro {
+    margin-right: calc(0px - (1920px - 1536px)/2);
+}
